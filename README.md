@@ -5,9 +5,9 @@ I love to connect and collaborate with new people.
 
 Online presence:
 
-[Linkedin] (https://www.linkedin.com/in/kushagra-bansal-96862a19b/)
+[Linkedin](https://www.linkedin.com/in/kushagra-bansal-96862a19b/)
 
-[Medium] (https://medium.com/@kushagra1101)
+[Medium](https://medium.com/@kushagra1101)
 
 [Codewars](https://www.codewars.com/users/crisfuller)
 
