@@ -5,7 +5,7 @@ I love to connect and collaborate with new people.
 
 Online presence:
 
-[Linkedin] (https://www.linkedin.com/in/kushagra-bansal-?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BeFXMbYFaR26QgIUUN03%2F5Q%3D%3D)
+[Linkedin] (https://www.linkedin.com/in/kushagra-bansal-96862a19b/)
 
 [Medium] (https://medium.com/@kushagra1101)
 
