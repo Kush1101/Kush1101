@@ -3,7 +3,7 @@ I am Kushagra Bansal. I am an undergraduate student majoring in Mathematics who 
 
 I love to connect and collaborate with new people.
 
-![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg
+![Visitor Count](https://profile-counter.glitch.me/{Kush1101}/count.svg
 
 Online presence:
 
