@@ -2,6 +2,7 @@
 I am Kushagra Bansal. I am an undergraduate student majoring in Mathematics who loves to take on challenging problems. I am passioanate about solving problems through code and learn more about new technologies. Currently, I am practising python and also learning about the cool stuff there is which includes Machine learning, Deep learning and Data Science!
 
 I love to connect and collaborate with new people.
+
 ![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg
 
 Online presence:
