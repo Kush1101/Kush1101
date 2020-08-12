@@ -11,6 +11,8 @@ Online presence:
 
 [Codewars](https://www.codewars.com/users/crisfuller)
 
+[StackOverflow](https://stackoverflow.com/users/13550402/kushagra-bansal)
+
 [GeeksForGeeks](https://auth.geeksforgeeks.org/user/kush11/profile)
 
 [GoodReads](https://www.goodreads.com/user/show/115877948-kushagra-bansal)
