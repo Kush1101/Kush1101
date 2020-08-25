@@ -5,9 +5,11 @@ I love to connect and collaborate with new people.
 
 ![Visitor Count](https://profile-counter.glitch.me/{Kush1101}/count.svg)
 
-Online presence:
-<a href="https://www.linkedin.com/in/kushagra-bansal-96862a19b/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="10" width="10" /></a>
-<a href="https://stackoverflow.com/users/13550402/kushagra-bansal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="StackOverflow" height="15" width="15" /></a>
+Online presence: 
+<br>
+<a href="https://www.linkedin.com/in/kushagra-bansal-96862a19b/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="20" width="20" /></a>
+<br>
+<a href="https://stackoverflow.com/users/13550402/kushagra-bansal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="StackOverflow" height="20" width="20" /></a>
 
 [Medium](https://medium.com/@kushagra1101)
 
