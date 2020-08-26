@@ -15,7 +15,9 @@ Online presence:
 <br>
 [Codewars](https://www.codewars.com/users/crisfuller)
 
-[GeeksForGeeks](https://auth.geeksforgeeks.org/user/kush11/profile)
+(https://img.shields.io/badge/GeeksForGeeks-Kushagra-brightgreen)(https://auth.geeksforgeeks.org/user/kush11/profile)
+
+(https://img.shields.io/static/v1?label=<codewars>&message=<https://www.codewars.com/users/crisfuller/badges/micro>&color=<orange>)
 
 [GoodReads](https://www.goodreads.com/user/show/115877948-kushagra-bansal)
 
