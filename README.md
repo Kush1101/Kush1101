@@ -10,7 +10,7 @@ Online presence:
 <a href="https://www.linkedin.com/in/kushagra-bansal-96862a19b/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="20" width="20" /></a>
 <br>
 <a href="https://stackoverflow.com/users/13550402/kushagra-bansal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="StackOverflow" height="20" width="20" /></a>
-<br>
+<br><br>
 [![Medium Badge](https://img.shields.io/badge/-Medium-000?style=flat&logo=Medium&logoColor=white)](https://medium.com/@kushagra1101)
 <br>
 [Codewars](https://www.codewars.com/users/crisfuller)
