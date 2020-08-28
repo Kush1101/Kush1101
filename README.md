@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am Kushagra Bansal. I am an undergraduate student majoring in Mathematics who loves to take on challenging problems. I am passioanate about solving problems through code and learn more about new technologies. Currently, I am practising python and also learning about the cool stuff there is which includes Machine learning, Deep learning and Data Science!
+I am Kushagra Bansal. I am an undergraduate student majoring in Mathematics who loves to take on challenging problems. I am passioanate about solving problems through code and learn more about new technologies. Currently, I am practicing python and also learning about the cool stuff there is which includes Machine learning, Deep learning and Data Science!
 
 I love to connect and collaborate with new people.
 
@@ -19,18 +19,25 @@ Online presence:
 
 [GoodReads](https://www.goodreads.com/user/show/115877948-kushagra-bansal)
 
+- 🔭 I’m currently working to create python projects.
+- 🌱 I’m currently learning Maths, Machine learning, Git.
+- 👯 I’m looking to collaborate on projects which include machine learning and python.
+- 🤔 I’m looking for help with content writing.
+- 💬 Ask me about Mathematics, Astrophysics, Python
+- 📫 How to reach me: [mail] (mailto: kushagrabansalajmer@gmail.com)
+
 
 <!--
 **Kush1101/Kush1101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 🔭 I’m currently working to create python projects.
+- 🌱 I’m currently learning Maths, Machine learning, Git.
+- 👯 I’m looking to collaborate on projects which include machine learning and python.
+- 🤔 I’m looking for help with content writing.
+- 💬 Ask me about Mathematics, Astrophysics, Python
+- 📫 How to reach me: [mail] (mailto: kushagrabansalajmer@gmail.com)
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
