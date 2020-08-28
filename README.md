@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on projects which include machine learning and python.
 - 🤔 I’m looking for help with content writing.
 - 💬 Ask me about Mathematics, Astrophysics, Python
-- 📫 How to reach me: [mail] (mailto: kushagrabansalajmer@gmail.com)
+- 📫 How to reach me: [mail] (mailto:kushagrabansalajmer@gmail.com)
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
