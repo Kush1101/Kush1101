@@ -24,7 +24,7 @@ Online presence:
 - 👯 I’m looking to collaborate on projects which include machine learning and python.
 - 🤔 I’m looking for help with content writing.
 - 💬 Ask me about Mathematics, Astrophysics, Python
-- 📫 How to reach me: [mail](mailto: kushagrabansalajmer@gmail.com)
+- 📫 How to reach me: [Gmail](mailto:kushagrabansalajmer@gmail.com)
 
 
 <!--
