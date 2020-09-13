@@ -20,6 +20,8 @@ Online presence:
 
 [GoodReads](https://www.goodreads.com/user/show/115877948-kushagra-bansal)
 
+![github top repos](https://drive.google.com/file/d/1jjftkFGKyw4UH3qNYJTieeZdU4uwUBYL/view)
+
 
 <!--
 **Kush1101/Kush1101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
