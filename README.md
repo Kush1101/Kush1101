@@ -12,6 +12,8 @@ Online presence:
 
 [Codewars](https://www.codewars.com/users/crisfuller)
 
+[Project Euler](https://projecteuler.net/profile/crisfuller.png)
+
 [StackOverflow](https://stackoverflow.com/users/13550402/kushagra-bansal)
 
 [Dev.to](https://dev.to/kush1101)
