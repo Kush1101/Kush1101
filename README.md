@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 [![Github Badge](https://img.shields.io/badge/-Kush1101-black?style=flat&logo=github&logoColor=white&link=https://github.com/kush1101)](https://github.com/Kush1101)
 [![Linkedin Badge](https://img.shields.io/badge/-Kushagra-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kushagra-bansal-96862a19b/)](https://www.linkedin.com/in/kushagra-bansal-96862a19b/)
 [![Medium Badge](https://img.shields.io/badge/-@kushagra1101-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@kushagra1101)](https://medium.com/@kushagra1101)
@@ -15,6 +15,15 @@ I am an undergraduate student majoring in Mathematics who loves to take on chall
 
 I love to connect and collaborate with new people.
 
+- 🔭 I’m currently working on web scrapping and data science projects
+- 🌱 I’m currently learning Topology, Analysis, Machine learning
+- 👯 I’m looking to collaborate on Machine learning projects
+- 🤔 I’m looking for help with web dev
+- 💬 Ask me about Maths and Astronomy!🔭📊
+- 📫 How to reach me: [Inbox](mailto:kushagrabansalajmer@gmail.com)
+- ⚡ Fun fact: I love sports ⚽
+
+<!--
 Online presence:
 
 [Linkedin](https://www.linkedin.com/in/kushagra-bansal-96862a19b/)
@@ -32,19 +41,12 @@ Online presence:
 [GeeksForGeeks](https://auth.geeksforgeeks.org/user/kush11/profile)
 
 [GoodReads](https://www.goodreads.com/user/show/115877948-kushagra-bansal)
-
+-->
 
 <!--
 **Kush1101/Kush1101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 -->
