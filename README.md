@@ -2,7 +2,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Kushagra-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kushagra-bansal-96862a19b/)](https://www.linkedin.com/in/kushagra-bansal-96862a19b/)
 [![Medium Badge](https://img.shields.io/badge/-@kushagra1101-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@kushagra1101)](https://medium.com/@_jessicalim)
 [![Dev.to badge](https://img.shields.io/badge/-Kush-black?style=flat&logo=Dev.to&logoColor=white&link=https://dev.to/kush1101)](https://dev.to/kush1101)
-[![Codewars badge](https://img.shields.io/badge/-4kyu-blue?style=flat&logo=codewars&logoColor=red&link=https://codewars.com/users/crisfuller)]((https://www.codewars.com/users/crisfuller))
+[![Codewars badge](https://img.shields.io/badge/-4kyu-blue?style=flat&logo=codewars&logoColor=red&link=https://codewars.com/users/crisfuller)](https://www.codewars.com/users/crisfuller)
 [![StackOverflow badge](https://img.shields.io/badge/-Kushagra-white?style=flat&logo=stack-overflow&logoColor=orange&link=https://stackoverflow.com/users/13550402/kushagra-bansal)](https://stackoverflow.com/users/13550402/kushagra-bansal)
 [![Goodreads Badge](https://img.shields.io/badge/-Goodreads-yellow?style=flat&logo=goodreads&logoColor=brown&link=https://www.goodreads.com/user/show/115877948-kushagra-bansal)](https://www.goodreads.com/user/show/115877948-kushagra-bansal)
 [![GFG badge](https://img.shields.io/badge/-GFG-darkgreen?style=flat&logo=geeksforgeeks&logoColor=white&link=https://auth.geeksforgeeks.org/user/kush11/profile)](https://auth.geeksforgeeks.org/user/kush11/profile)
