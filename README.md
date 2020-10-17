@@ -1,4 +1,8 @@
 ### Hi there 👋
+[![Linkedin Badge](https://img.shields.io/badge/-Kushagra-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kushagra-bansal-96862a19b/)](https://www.linkedin.com/in/kushagra-bansal-96862a19b/)
+[![Medium Badge](https://img.shields.io/badge/-@kushagra1101-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@kushagra1101)](https://medium.com/@_jessicalim)
+[![Gmail Badge](https://img.shields.io/badge/-Kushagra-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:kushagrabansalajmer@gmail.com)](mailto:kushagrabansalajmer@gmail.com)
+
 I am Kushagra ☺ <br>
 I am an undergraduate student majoring in Mathematics who loves to take on challenging problems. I am passioanate about solving problems through code and learn more about new technologies. Currently, I am practising python and also learning about the cool stuff there is which includes Machine learning, Deep learning and Data Science!
 
