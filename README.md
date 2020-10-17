@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Github Badge](https://img.shields.io/badge/-github-black?style=flat&logo=github&logoColor=white&link=https://github.com/kush1101)](https://github.com/Kush1101)
+[![Github Badge](https://img.shields.io/badge/-Kush1101-black?style=flat&logo=github&logoColor=white&link=https://github.com/kush1101)](https://github.com/Kush1101)
 [![Linkedin Badge](https://img.shields.io/badge/-Kushagra-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kushagra-bansal-96862a19b/)](https://www.linkedin.com/in/kushagra-bansal-96862a19b/)
 [![Medium Badge](https://img.shields.io/badge/-@kushagra1101-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@kushagra1101)](https://medium.com/@kushagra1101)
 [![Dev.to badge](https://img.shields.io/badge/-Kush-black?style=flat&logo=Dev.to&logoColor=white&link=https://dev.to/kush1101)](https://dev.to/kush1101)
