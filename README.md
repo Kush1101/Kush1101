@@ -23,7 +23,7 @@ I love to connect and collaborate with new people.
 - 🤔 I’m looking for help with web dev
 - 💬 Ask me about Maths and Astronomy!🔭📊
 - 📫 How to reach me: [Inbox](mailto:kushagrabansalajmer@gmail.com)
-- ⚡ Fun fact: I love sports ⚽
+- ⚡ Fun fact: [![Fun fact](https://latex2png.com/pngs/9235487491fcf837a2e770a59304940e.png)]
 
 <!--
 Online presence:
