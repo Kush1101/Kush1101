@@ -4,10 +4,10 @@
 [![Medium Badge](https://img.shields.io/badge/-@kushagra1101-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@kushagra1101)](https://medium.com/@kushagra1101)
 [![StackOverflow badge](https://img.shields.io/badge/-Kushagra-white?style=flat&logo=stack-overflow&logoColor=orange&link=https://stackoverflow.com/users/13550402/kushagra-bansal)](https://stackoverflow.com/users/13550402/kushagra-bansal)
 [![Leetcode Badge](https://img.shields.io/badge/-Kush1101-pink?style=flat&logo=leetcode&logoColor=black&link=https://leetcode.com/kush1101/)](https://leetcode.com/kush1101/)
-[![Badge](https://cp-logo.vercel.app/codechef/crisfuller?logo=true)]
-[![Dev.to badge](https://img.shields.io/badge/-Kush-black?style=flat&logo=Dev.to&logoColor=white&link=https://dev.to/kush1101)](https://dev.to/kush1101)
+[![Codechef Badge](https://cp-logo.vercel.app/codechef/crisfuller?logo=true)
+![Dev.to badge](https://img.shields.io/badge/-Kush-black?style=flat&logo=Dev.to&logoColor=white&link=https://dev.to/kush1101)](https://dev.to/kush1101)
 [![Kaggle Badge](https://img.shields.io/badge/-kush1101-grey?style=flat&logo=kaggle&logoColor=aqua&link=https://www.kaggle.com/kush1101)](https://www.kaggle.com/kush1101)
-[![Codewars badge](https://img.shields.io/badge/-4kyu-blue?style=flat&logo=codewars&logoColor=red&link=https://codewars.com/users/crisfuller)]
+![Codewars badge](https://img.shields.io/badge/-4kyu-blue?style=flat&logo=codewars&logoColor=red&link=https://codewars.com/users/crisfuller)
 [![Goodreads Badge](https://img.shields.io/badge/-Goodreads-yellow?style=flat&logo=goodreads&logoColor=brown&link=https://www.goodreads.com/user/show/115877948-kushagra-bansal)](https://www.goodreads.com/user/show/115877948-kushagra-bansal)
 [![GFG badge](https://img.shields.io/badge/-GFG-darkgreen?style=flat&logo=geeksforgeeks&logoColor=white&link=https://auth.geeksforgeeks.org/user/kush11/profile)](https://auth.geeksforgeeks.org/user/kush11/profile)
 [![Twitter badge](https://img.shields.io/badge/-Kushagra-grey?style=flat&logo=twitter&logoColor=lightblue&link=https://twitter.com/Kushagr34372461)](https://twitter.com/Kushagr34372461)
