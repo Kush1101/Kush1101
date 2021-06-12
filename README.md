@@ -28,7 +28,7 @@ I love to connect and collaborate with new people.
 - 📫 How to reach me: [Inbox](mailto:kushagrabansalajmer@gmail.com)
 - ⚡ Fun fact: ![Fact](https://render.githubusercontent.com/render/math?math=\sum_{1}^{\infty}x%20=%20\frac{-1}{12})
 
-[![Kush's GitHub stats](https://github-readme-stats.vercel.app/api?username=kush1101)](https://github.com/kush1101)
+[![Kush's GitHub stats](https://github-readme-stats.vercel.app/api?username=kush1101&show_icons=true&theme=tokyonight)](https://github.com/kush1101)
 
 <!--
 Online presence:
